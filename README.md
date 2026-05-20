@@ -2,8 +2,7 @@
 
 A interactive full-stack AI FinOps (Financial Operations) dashboard built with **Python**, **Streamlit**, and **Plotly**. This application serves as a strategic sandbox environment designed to forecast, simulate, and optimize API inference expenditures across major Large Language Model (LLM) providers before production deployment.
 
-🚀 **Live Application Link:** [Insert your Streamlit live URL here]  
-💻 **Developer:** [Your Name] ([Your LinkedIn Profile Link])
+🚀 **Live Application Link:** [https://llmcostvisualizer-x8dtfgdalgyxbvdwq7hevj.streamlit.app/] 
 
 ---
 
